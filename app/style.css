@@ -1,0 +1,24 @@
+.head{
+	text-align: center;
+	background-color: #ff0000;
+	color: white;
+	font-size: 30px;
+}
+#student_form
+{
+	display: none;
+}
+
+#t3{
+	text-align: center;
+}
+i{
+	cursor: pointer;
+}
+
+
+.mt3  {marg}
+.mt10 { margin-top: 10px; }
+.mt15 { margin-top: 15px; }
+.mt20 { margin-top: 20px; }
+.mt25 { margin-top: 25px; }
