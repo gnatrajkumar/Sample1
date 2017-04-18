@@ -42,6 +42,7 @@ $("#add_btn").click(function(){
 
 $(".delete_std").on('click', function(){
 console.log("delete item");
+	console.log("deleted student record");
 
 });
 
